@@ -1,5 +1,5 @@
 {
-  "name": "package-starter-es6",
+  "name": "es6-package-starter",
   "version": "1.0.0",
   "description": "Starter project for building a package for npm.",
   "main": "lib/index.js",
@@ -25,5 +25,9 @@
     "expect": "^1.20.2",
     "mocha": "^3.0.2",
     "npm-run-all": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danny-hines/es6-package-starter"
   }
 }
