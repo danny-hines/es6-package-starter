@@ -12,8 +12,8 @@
     "test": "mocha --require babel-register ./src/**/*.spec.js",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "Daniel Hines",
-  "license": "ISC",
+  "author": "Danny Hines",
+  "license": "MIT",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-cli": "^6.14.0",
