@@ -11,12 +11,15 @@ I've done my best to limit the number of opinions imposed. If you'd prefer to us
 
 ## Get Started
 1. **Clone the project**. `git clone https://github.com/danny-hines/es6-package-starter.git`
-2. **Install dependencies**. `npm install`
-3. **Start the watch tasks**. `npm start`
+2. **Install dependencies**. `npm install` or `yarn`
+3. **Start the watch tasks**. `npm start` or `yarn start`  
 As you develop your project, this command will watch all of your files and automatically run linting and tests whenever you hit save.
-4. **Review the sample code**. This project includes a simple Add function along with a corresponding spec file.
-5. **Replace with your own code**. You can now begin writing your package, replacing the sample code. As long as the start command is running, any changes you make will automatically trigger your tests and linting.
-6. **Publish your package**. `npm publish` Before your package is published, it automatically will be linted, tested, and compiled to ES5.
+4. **Review the sample code**.  
+This project includes a simple Add function along with a corresponding spec file.
+5. **Replace with your own code**.  
+You can now begin writing your package, replacing the sample code. As long as the start command is running, any changes you make will automatically trigger your tests and linting.
+6. **Publish your package**. `npm publish` or `yarn publish`  
+Before your package is published, it automatically will be linted, tested, and compiled to ES5.
 
 ## Core Dependencies
 |**Package**|**Description**|
